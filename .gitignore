@@ -1,0 +1,55 @@
+# Dependencies
+node_modules/
+RecallApp-Web/node_modules/
+*.pyc
+__pycache__/
+.pytest_cache/
+
+# Build outputs
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Mac specific
+.DS_Store
+*.app/
+
+# Environment
+.env
+.env.local
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Next.js
+.next/
+out/
+
+# Vercel
+.vercel/
+
+# Python
+venv/
+env/
+*.pyo
+*.pyd
+.Python
+
+# Testing
+coverage/
+.coverage
+htmlcov/
+.tox/
+.pytest_cache/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.bak
+*.backup

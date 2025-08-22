@@ -1,0 +1,36 @@
+# Core dependencies for Recall Mac app
+rumps>=0.4.0
+py2app>=0.28.0
+
+# GUI framework
+PyQt6>=6.4.0
+
+# Vector search and embeddings
+chromadb>=0.4.0
+sentence-transformers>=2.0.0
+
+# Database and file handling
+pandas>=2.0.0
+sqlite3
+
+# Networking and security
+paramiko>=3.0.0
+requests>=2.28.0
+
+# Task scheduling
+schedule>=1.2.0
+
+# Configuration
+python-dotenv>=1.0.0
+
+# Data models
+pydantic>=2.0.0
+
+# Utilities
+pathlib2>=2.3.0
+pillow>=10.0.0
+click>=8.0.0
+
+# Development and testing
+pytest>=7.0.0
+black>=23.0.0

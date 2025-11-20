@@ -1,0 +1,2 @@
+# Python dependencies for Vercel serverless functions
+# These are minimal requirements for the demo API
